@@ -4,7 +4,7 @@ Tags: blog, portfolio, entertainment, grid-layout, one-column, two-columns, thre
 Requires at least: 5.8
 Tested up to: 6.7.1
 Requires PHP: 7.2
-Stable tag: 1.3
+Stable tag: 1.0
 License: GNU General Public License v3.0 (or later)
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -14,15 +14,8 @@ Launch a blazing-fast, pixel-perfect website with the Ollie WordPress block them
 
 == Changelog ==
 
-= 1.3 - 4/29/25 =
-* Add two new typography variations
-
-= 1.2 - 4/28/25 =
-* Add two new typography variations
-
-= 1.0 - 4/27/25 =
-* Minor style adjustments for WordPress 6.8
-* Fix text underline rendering bug for Firefox
+= 1.0 - 4/29/25 =
+* Initial release
 
 == Copyright ==
 
